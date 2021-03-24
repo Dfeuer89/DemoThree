@@ -9,6 +9,8 @@ public class GithubDemoFour {
 		
 		System.out.println("Making Progress");
 		
+		System.out.println("Baby Steps");
+		
 	}
 
 	//you added new code and now you have to share with the team
